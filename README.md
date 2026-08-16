@@ -6,7 +6,7 @@ I'm a **B.Tech Computer Science & Engineering student at Parul University**, pas
 
 I'm interested in **Software Development and Full-Stack Development**, and I enjoy turning ideas into practical applications while continuously improving my programming and problem-solving skills.
 
----,
+---
 
 ## 🚀 About Me
 
